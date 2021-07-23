@@ -18,7 +18,7 @@ body {
 /* position */
 .container {
     width: 80vw;
-    min-height: 40vh;
+    min-height: 50vh;
     padding: 0;
     margin: 20vh auto;
     margin-bottom: 10px;
@@ -56,7 +56,7 @@ body {
 }
 
 .item2 {
-    margin-bottom: 5%;
+    margin-bottom: 0;
 }
 
 .attribution {
@@ -77,7 +77,6 @@ body {
 
 .item1 div {
     font-weight: 400;
-    margin-right: 10%;
     color: hsla(0, 0%, 100%, 0.75)
 }
 
