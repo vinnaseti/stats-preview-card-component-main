@@ -100,11 +100,12 @@ body {
     color: hsla(0, 0%, 100%, 0.75);
 }
 
-@media (max-width: 600px) {
+@media (max-width: 380px) {
     .container {
         width: 90vw;
         height: auto;
         border-radius: 10px;
+        margin: 5vh auto;
 
         flex-flow: column-reverse nowrap;
         justify-content: flex-end;
@@ -132,4 +133,5 @@ body {
         background-image: url('images/image-header-mobile.jpg');
         background-size: cover;
     }
+
 }
