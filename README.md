@@ -26,7 +26,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Github Repository](https://github.com/vinnaseti/stats-preview-card-component-main/tree/master/stats-preview-card-component-main)
+- Solution URL: [Github Repository](https://github.com/vinnaseti/stats-preview-card-component-main)
 - Live Site URL: [Github Pages](https://vinnaseti.github.io/stats-preview-card-component-main/)
 
 ## My process
